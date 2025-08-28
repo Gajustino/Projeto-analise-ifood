@@ -4,6 +4,8 @@
 Explorar dados de restaurantes do iFood (nov/2020 e fev/2021), entender tendências de crescimento, categorias mais populares e testar modelos de ML para prever `rating`.
 
 ## Bases de Dados
+Os datasets originais podem ser baixados no Kaggle:  
+[iFood Restaurants Data (2020 e 2021)](https://www.kaggle.com/datasets/ricardotachinardi/ifood-restaurants-data/data)
 - **2020:** ifood-restaurants-november-2020.csv  
 - **2021:** ifood-restaurants-february-2021.csv  
 - Bases unificadas após padronização (criação de `ano`, alinhamento de colunas).  
